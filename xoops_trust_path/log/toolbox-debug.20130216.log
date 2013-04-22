@@ -1,0 +1,267 @@
+2013-02-16 6:54:33.769956 - loaded common.php
+2013-02-16 6:54:33.778063 - LoginSuccessAction::UserSettingRegistor->copyUserSettingFromAdmin()
+2013-02-16 6:54:33.778431 - loginUserId=1 is administrator user.
+2013-02-16 7:03:50.517484 - loaded common.php
+2013-02-16 7:03:50.524295 - LoginSuccessAction::UserSettingRegistor->copyUserSettingFromAdmin()
+2013-02-16 7:03:50.561208 - loginUserId=2 is registored translation path settings.
+2013-02-16 7:08:10.716441 - loaded common.php
+2013-02-16 7:08:10.932386 - loaded common.php
+2013-02-16 7:08:57.548493 - loaded common.php
+2013-02-16 7:13:19.28932 - loaded common.php
+2013-02-16 7:23:27.074877 - loaded common.php
+2013-02-16 7:24:46.53052 - loaded common.php
+2013-02-16 7:24:46.65298 - http://langrid.org/service_manager/services/ServiceManagement?wsdl
+2013-02-16 7:24:47.08637 - refresh start.
+2013-02-16 7:24:47.451627 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:48.748182 - 12 TRANSLATIONservices of CLIENT_CONTROL.
+2013-02-16 7:24:48.830668 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:49.012289 - 0 TRANSLATIONservices of SERVER_CONTROL.
+2013-02-16 7:24:49.269204 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:51.379822 - 20 BILINGUALDICTIONARYWITHLONGESTMATCHSEARCHservices of CLIENT_CONTROL.
+2013-02-16 7:24:51.529003 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:52.848615 - 12 BILINGUALDICTIONARYWITHLONGESTMATCHSEARCHservices of SERVER_CONTROL.
+2013-02-16 7:24:53.06715 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:54.917628 - 18 MORPHOLOGICALANALYSISservices of CLIENT_CONTROL.
+2013-02-16 7:24:55.007078 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:55.748227 - 6 MORPHOLOGICALANALYSISservices of SERVER_CONTROL.
+2013-02-16 7:24:55.841398 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:56.437952 - 4 TEXTTOSPEECHservices of CLIENT_CONTROL.
+2013-02-16 7:24:56.505997 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:56.818951 - 1 TEXTTOSPEECHservices of SERVER_CONTROL.
+2013-02-16 7:24:56.873283 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:57.186143 - 1 SIMILARITYCALCULATIONservices of CLIENT_CONTROL.
+2013-02-16 7:24:57.242153 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-02-16 7:24:57.516439 - 1 SIMILARITYCALCULATIONservices of SERVER_CONTROL.
+2013-02-16 7:24:57.518237 - ### EBMT add	 ###
+2013-02-16 7:24:57.518762 - ServiceGridLangridService Object
+(
+    [id:ServiceGridLangridService:private] => 1280
+    [serviceId:ServiceGridLangridService:private] => kyotou.langrid:KyotoEBMT-nlparser_KNP_EDICT
+    [serviceType:ServiceGridLangridService:private] => TRANSLATION
+    [allowedAppProvision:ServiceGridLangridService:private] => CLIENT_CONTROL
+    [serviceName:ServiceGridLangridService:private] => KyotoEBMT (nlparser, KNP, EDICT)
+    [endpointUrl:ServiceGridLangridService:private] => http://langrid.nict.go.jp/service_manager/wsdl/kyotou.langrid:KyotoEBMT-nlparser_KNP_EDICT
+    [supportedLanguagesPaths:ServiceGridLangridService:private] => en2ja,ja2en
+    [organization:ServiceGridLangridService:private] => Kurohashi Laboratory, Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University
+    [copyright:ServiceGridLangridService:private] => KyotoEBMT: Kyoto University, nlparser: Brown University, KNP: Kyoto University, EDICT: The Electronic Dictionary Research and Development Group
+    [license:ServiceGridLangridService:private] => 
+    [description:ServiceGridLangridService:private] => KyotoEBMT is a example based machine translator. This resource consists of nlparser and KNP for a parser, and EDICT for a bilingual dictionary.
+    [registeredDate:ServiceGridLangridService:private] => 2010/08/25
+    [updatedDate:ServiceGridLangridService:private] => 2010/08/25
+    [miscBasicUserid:ServiceGridLangridService:private] => 
+    [miscBasicPasswd:ServiceGridLangridService:private] => 
+)
+
+2013-02-16 7:24:57.519765 - ### EBMT add	 ###
+2013-02-16 7:24:57.520313 - ServiceGridLangridService Object
+(
+    [id:ServiceGridLangridService:private] => 1281
+    [serviceId:ServiceGridLangridService:private] => kyotou.langrid:KyotoEBMT-nlparser_KNP_EDICT
+    [serviceType:ServiceGridLangridService:private] => TRANSLATION
+    [allowedAppProvision:ServiceGridLangridService:private] => SERVER_CONTROL
+    [serviceName:ServiceGridLangridService:private] => KyotoEBMT (nlparser, KNP, EDICT)
+    [endpointUrl:ServiceGridLangridService:private] => http://langrid.nict.go.jp/service_manager/wsdl/kyotou.langrid:KyotoEBMT-nlparser_KNP_EDICT
+    [supportedLanguagesPaths:ServiceGridLangridService:private] => en2ja,ja2en
+    [organization:ServiceGridLangridService:private] => Kurohashi Laboratory, Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University
+    [copyright:ServiceGridLangridService:private] => KyotoEBMT: Kyoto University, nlparser: Brown University, KNP: Kyoto University, EDICT: The Electronic Dictionary Research and Development Group
+    [license:ServiceGridLangridService:private] => 
+    [description:ServiceGridLangridService:private] => KyotoEBMT is a example based machine translator. This resource consists of nlparser and KNP for a parser, and EDICT for a bilingual dictionary.
+    [registeredDate:ServiceGridLangridService:private] => 2010/08/25
+    [updatedDate:ServiceGridLangridService:private] => 2010/08/25
+    [miscBasicUserid:ServiceGridLangridService:private] => 
+    [miscBasicPasswd:ServiceGridLangridService:private] => 
+)
+
+2013-02-16 7:24:57.520754 - refresh end.
+2013-02-16 7:24:57.698276 - MainFrame::execute(); /toolbox-dev/html/modules/langrid_config/?page=client_control_shared
+2013-02-16 7:24:58.101782 - bindingSetName = SITE
+2013-02-16 7:25:52.749148 - loaded common.php
+2013-02-16 7:25:52.766635 - loaded common.php
+2013-02-16 7:25:52.834841 - SITE Setting!
+2013-02-16 7:25:52.84057 - SITE Setting!
+2013-02-16 7:25:52.850128 - ### binds ###
+2013-02-16 7:25:52.850627 - Array
+(
+    [0] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 1
+            [bindType:ServiceGridTranslationBind:private] => 9
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:TreeTagger
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816719
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [1] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 2
+            [bindType:ServiceGridTranslationBind:private] => 0
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:GoogleTranslate
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816719
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [2] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 3
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => RiceDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816719
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [3] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 4
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => YMCCommunityDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816719
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [4] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 5
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => ymctoolboxsystem dictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816719
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+)
+
+2013-02-16 7:25:52.852912 - $numberOfTranslators = 1
+2013-02-16 7:25:52.853345 - $numberOfEbmts = 0
+2013-02-16 7:25:52.853668 - $numberOfParallelTexts = 0
+2013-02-16 7:25:52.853988 - $this->isBestChoice = 0
+2013-02-16 7:25:52.858137 - ### Selected translator ###
+2013-02-16 7:25:52.858536 - BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-02-16 7:25:52.858847 - source = This is a test from Toolbox development team.
+2013-02-16 7:25:52.859277 - sourceArray = 
+2013-02-16 7:25:52.859704 - BindingName = SITE
+2013-02-16 7:25:52.860014 - isBackTrans = 1
+2013-02-16 7:25:52.860324 - isMultihop = 0
+2013-02-16 7:25:52.86063 - isCombined = 1
+2013-02-16 7:25:52.860946 - isBestChoice = 0
+2013-02-16 7:25:52.861259 - isEbmt = 0
+2013-02-16 7:25:52.859814 - SITE Setting!
+2013-02-16 7:25:52.866275 - getUserDictionaryContents begin
+2013-02-16 7:25:52.867623 - SELECT     src.contents AS `en`     , tgt.contents AS `vi` FROM     `c25bbe_user_dictionary_contents` tgt JOIN     (SELECT         `user_dictionary_id`         , `row`         , `language`         , `contents`      FROM         c25bbe_user_dictionary_contents      WHERE         `user_dictionary_id` in (3, 6, 2)         AND `delete_flag` = 0         AND `row` > 0         AND `language` = 'en'          AND (( LENGTH(`contents`) >= 3 AND LEFT(`contents`, 3) IN (' To', ' a ', ' de', ' fr', ' is', ' te', '.', 'Thi', 'Too', 'a t', 'am.', 'box', 'dev', 'eam', 'elo', 'ent', 'est', 'eve', 'fro', 'his', 'is ', 'lbo', 'lop', 'm T', 'm.', 'men', 'nt ', 'olb', 'om ', 'ool', 'opm', 'ox ', 'pme', 'rom', 's a', 's i', 'st ', 't f', 't t', 'tea', 'tes', 'vel', 'x d') ) OR (LENGTH(`contents`) = 2 AND `contents` IN (' T',' a',' d',' f',' i',' t','.','Th','To','a ','am','bo','de','ea','el','en','es','ev','fr','hi','is','lb','lo','m ','m.','me','nt','ol','om','oo','op','ox','pm','ro','s ','st','t ','te','ve','x '))  OR (LENGTH(`contents`) = 1 AND `contents` IN (' ','.','T','a','b','d','e','f','h','i','l','m','n','o','p','r','s','t','v','x')) )       ORDER BY         FIELD(`user_dictionary_id`, 3, 6, 2) DESC         , `row` ASC     ) src ON src.`user_dictionary_id` = tgt.`user_dictionary_id`    AND src.`row` = tgt.`row` WHERE    tgt.`language` = 'vi'    AND tgt.`delete_flag` = 0 
+2013-02-16 7:25:52.866678 - SITE Setting!
+2013-02-16 7:25:52.876662 - ### binds ###
+2013-02-16 7:25:52.87734 - Array
+(
+    [0] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 2
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 1
+            [bindType:ServiceGridTranslationBind:private] => 9
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:TreeTagger
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816717
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [1] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 2
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 2
+            [bindType:ServiceGridTranslationBind:private] => 0
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:KyotoUJServer
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816717
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [2] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 2
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 3
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => RiceDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816718
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [3] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 2
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 4
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => YMCCommunityDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816718
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [4] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 2
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 5
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => ymctoolboxsystem dictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1353816718
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+)
+
+2013-02-16 7:25:52.87967 - $numberOfTranslators = 1
+2013-02-16 7:25:52.880205 - $numberOfEbmts = 0
+2013-02-16 7:25:52.880577 - $numberOfParallelTexts = 0
+2013-02-16 7:25:52.880938 - $this->isBestChoice = 0
+2013-02-16 7:25:52.884434 - ### Selected translator ###
+2013-02-16 7:25:52.887164 - BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-02-16 7:25:52.887527 - source = This is a test from Toolbox development team.
+2013-02-16 7:25:52.887877 - sourceArray = 
+2013-02-16 7:25:52.888232 - BindingName = SITE
+2013-02-16 7:25:52.888579 - isBackTrans = 1
+2013-02-16 7:25:52.88916 - isMultihop = 0
+2013-02-16 7:25:52.889507 - isCombined = 1
+2013-02-16 7:25:52.88985 - isBestChoice = 0
+2013-02-16 7:25:52.890195 - isEbmt = 0
+2013-02-16 7:25:52.900212 - found 18 words in Dictionary.
+2013-02-16 7:25:52.896154 - getUserDictionaryContents begin
+2013-02-16 7:25:52.901962 - $bindingName = SITE
+2013-02-16 7:25:52.902419 - http://langrid.org/service_manager/wsdl/kyoto1.langrid:BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-02-16 7:25:52.897691 - SELECT     src.contents AS `en`     , tgt.contents AS `ja` FROM     `c25bbe_user_dictionary_contents` tgt JOIN     (SELECT         `user_dictionary_id`         , `row`         , `language`         , `contents`      FROM         c25bbe_user_dictionary_contents      WHERE         `user_dictionary_id` in (3, 6, 2)         AND `delete_flag` = 0         AND `row` > 0         AND `language` = 'en'          AND (( LENGTH(`contents`) >= 3 AND LEFT(`contents`, 3) IN (' To', ' a ', ' de', ' fr', ' is', ' te', '.', 'Thi', 'Too', 'a t', 'am.', 'box', 'dev', 'eam', 'elo', 'ent', 'est', 'eve', 'fro', 'his', 'is ', 'lbo', 'lop', 'm T', 'm.', 'men', 'nt ', 'olb', 'om ', 'ool', 'opm', 'ox ', 'pme', 'rom', 's a', 's i', 'st ', 't f', 't t', 'tea', 'tes', 'vel', 'x d') ) OR (LENGTH(`contents`) = 2 AND `contents` IN (' T',' a',' d',' f',' i',' t','.','Th','To','a ','am','bo','de','ea','el','en','es','ev','fr','hi','is','lb','lo','m ','m.','me','nt','ol','om','oo','op','ox','pm','ro','s ','st','t ','te','ve','x '))  OR (LENGTH(`contents`) = 1 AND `contents` IN (' ','.','T','a','b','d','e','f','h','i','l','m','n','o','p','r','s','t','v','x')) )       ORDER BY         FIELD(`user_dictionary_id`, 3, 6, 2) DESC         , `row` ASC     ) src ON src.`user_dictionary_id` = tgt.`user_dictionary_id`    AND src.`row` = tgt.`row` WHERE    tgt.`language` = 'ja'    AND tgt.`delete_flag` = 0 
+2013-02-16 7:25:52.913865 - found 18 words in Dictionary.
+2013-02-16 7:25:52.915356 - $bindingName = SITE
+2013-02-16 7:25:52.91591 - http://langrid.org/service_manager/wsdl/kyoto1.langrid:BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-02-16 7:25:53.046255 - AbstractServiceGridClient: invoke start
+2013-02-16 7:25:53.046752 - isMultiSentenceTranslation = 0
+2013-02-16 7:25:53.047631 - Translate Start
+2013-02-16 7:25:53.054899 - AbstractServiceGridClient: invoke start
+2013-02-16 7:25:53.055348 - isMultiSentenceTranslation = 0
+2013-02-16 7:25:53.057033 - Translate Start

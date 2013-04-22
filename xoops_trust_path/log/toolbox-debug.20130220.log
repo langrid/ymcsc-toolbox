@@ -1,0 +1,3 @@
+2013-02-20 11:38:29.783308 - loaded common.php
+2013-02-20 11:38:29.806732 - LoginSuccessAction::UserSettingRegistor->copyUserSettingFromAdmin()
+2013-02-20 11:38:29.866542 - loginUserId=2 is registored translation path settings.

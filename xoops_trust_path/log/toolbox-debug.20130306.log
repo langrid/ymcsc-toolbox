@@ -1,0 +1,810 @@
+2013-03-06 5:33:56.655102 - loaded common.php
+2013-03-06 5:33:56.665148 - LoginSuccessAction::UserSettingRegistor->copyUserSettingFromAdmin()
+2013-03-06 5:33:56.723553 - loginUserId=2 is registored translation path settings.
+2013-03-06 5:50:33.855928 - loaded common.php
+2013-03-06 5:50:33.970856 - SITE Setting!
+2013-03-06 5:50:33.975321 - SITE Setting!
+2013-03-06 5:50:33.984771 - ### binds ###
+2013-03-06 5:50:33.985145 - Array
+(
+    [0] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 1
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => RiceDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [1] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 2
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => YMCCommunityDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [2] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 3
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => ymctoolboxsystem dictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [3] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 4
+            [bindType:ServiceGridTranslationBind:private] => 9
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:TreeTagger
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [4] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 5
+            [bindType:ServiceGridTranslationBind:private] => 0
+            [bindValue:ServiceGridTranslationBind:private] => http://flamingo.ai.soc.i.kyoto-u.ac.jp/langrid-service-echo-2.0/services/EchoTranslationService?wsdl
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+)
+
+2013-03-06 5:50:33.986586 - $numberOfTranslators = 1
+2013-03-06 5:50:33.986863 - $numberOfEbmts = 0
+2013-03-06 5:50:33.987125 - $numberOfParallelTexts = 0
+2013-03-06 5:50:33.987378 - $this->isBestChoice = 0
+2013-03-06 5:50:33.98763 - ### binds ###
+2013-03-06 5:50:33.987965 - Array
+(
+    [0] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 2
+            [bindId:ServiceGridTranslationBind:private] => 1
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => RiceDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [1] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 2
+            [bindId:ServiceGridTranslationBind:private] => 2
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => YMCCommunityDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [2] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 2
+            [bindId:ServiceGridTranslationBind:private] => 3
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => ymctoolboxsystem dictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [3] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 2
+            [bindId:ServiceGridTranslationBind:private] => 4
+            [bindType:ServiceGridTranslationBind:private] => 9
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:TreeTagger
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [4] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 2
+            [bindId:ServiceGridTranslationBind:private] => 5
+            [bindType:ServiceGridTranslationBind:private] => 6
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid%3ABLEU
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [5] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 2
+            [bindId:ServiceGridTranslationBind:private] => 6
+            [bindType:ServiceGridTranslationBind:private] => 0
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:KyotoUJServer
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362485767
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+)
+
+2013-03-06 5:50:33.989231 - $numberOfTranslators = 1
+2013-03-06 5:50:33.989498 - $numberOfEbmts = 0
+2013-03-06 5:50:33.989737 - $numberOfParallelTexts = 0
+2013-03-06 5:50:33.989968 - $this->isBestChoice = 0
+2013-03-06 5:50:33.996237 - ### Selected translator ###
+2013-03-06 5:50:33.996558 - CycleBackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:50:33.996813 - source = Hello world. This is a test.
+2013-03-06 5:50:33.997063 - sourceArray = 
+2013-03-06 5:50:33.997312 - BindingName = SITE
+2013-03-06 5:50:33.997565 - isBackTrans = 1
+2013-03-06 5:50:33.99781 - isMultihop = 1
+2013-03-06 5:50:33.998054 - isCombined = 1
+2013-03-06 5:50:33.99828 - isBestChoice = 0
+2013-03-06 5:50:33.998509 - isEbmt = 0
+2013-03-06 5:50:34.001837 - getUserDictionaryContents begin
+2013-03-06 5:50:34.002646 - SELECT     src.contents AS `en`     , tgt.contents AS `ja` FROM     `c25bbe_user_dictionary_contents` tgt JOIN     (SELECT         `user_dictionary_id`         , `row`         , `language`         , `contents`      FROM         c25bbe_user_dictionary_contents      WHERE         `user_dictionary_id` in (3, 6, 2, 3, 6, 2)         AND `delete_flag` = 0         AND `row` > 0         AND `language` = 'en'          AND (( LENGTH(`contents`) >= 3 AND LEFT(`contents`, 3) IN (' Th', ' a ', ' is', ' te', ' wo', '.', '. T', 'Hel', 'Thi', 'a t', 'd. ', 'ell', 'est', 'his', 'is ', 'ld.', 'llo', 'lo ', 'o w', 'orl', 'rld', 's a', 's i', 'st.', 't.', 'tes', 'wor') ) OR (LENGTH(`contents`) = 2 AND `contents` IN (' T',' a',' i',' t',' w','.','. ','He','Th','a ','d.','el','es','hi','is','ld','ll','lo','o ','or','rl','s ','st','t.','te','wo'))  OR (LENGTH(`contents`) = 1 AND `contents` IN (' ','.','H','T','a','d','e','h','i','l','o','r','s','t','w')) )       ORDER BY         FIELD(`user_dictionary_id`, 3, 6, 2, 3, 6, 2) DESC         , `row` ASC     ) src ON src.`user_dictionary_id` = tgt.`user_dictionary_id`    AND src.`row` = tgt.`row` WHERE    tgt.`language` = 'ja'    AND tgt.`delete_flag` = 0 
+2013-03-06 5:50:34.023192 - found 8 words in Dictionary.
+2013-03-06 5:50:34.024531 - $bindingName = SITE
+2013-03-06 5:50:34.024866 - http://langrid.org/service_manager/wsdl/kyoto1.langrid:TranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:50:34.25774 - AbstractServiceGridClient: invoke start
+2013-03-06 5:50:34.259053 - isMultiSentenceTranslation = 0
+2013-03-06 5:50:34.261103 - CycleBackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch invoke!
+2013-03-06 5:50:34.276032 - getUserDictionaryContents begin
+2013-03-06 5:50:34.277082 - SELECT     src.contents AS `en`     , tgt.contents AS `en` FROM     `c25bbe_user_dictionary_contents` tgt JOIN     (SELECT         `user_dictionary_id`         , `row`         , `language`         , `contents`      FROM         c25bbe_user_dictionary_contents      WHERE         `user_dictionary_id` in (3, 6, 2, 3, 6, 2)         AND `delete_flag` = 0         AND `row` > 0         AND `language` = 'en'          AND (( LENGTH(`contents`) >= 3 AND LEFT(`contents`, 3) IN (' Th', ' a ', ' is', ' te', ' wo', '.', '. T', 'Hel', 'Thi', 'a t', 'd. ', 'ell', 'est', 'his', 'is ', 'ld.', 'llo', 'lo ', 'o w', 'orl', 'rld', 's a', 's i', 'st.', 't.', 'tes', 'wor') ) OR (LENGTH(`contents`) = 2 AND `contents` IN (' T',' a',' i',' t',' w','.','. ','He','Th','a ','d.','el','es','hi','is','ld','ll','lo','o ','or','rl','s ','st','t.','te','wo'))  OR (LENGTH(`contents`) = 1 AND `contents` IN (' ','.','H','T','a','d','e','h','i','l','o','r','s','t','w')) )       ORDER BY         FIELD(`user_dictionary_id`, 3, 6, 2, 3, 6, 2) DESC         , `row` ASC     ) src ON src.`user_dictionary_id` = tgt.`user_dictionary_id`    AND src.`row` = tgt.`row` WHERE    tgt.`language` = 'en'    AND tgt.`delete_flag` = 0 
+2013-03-06 5:50:34.298113 - found 8 words in Dictionary.
+2013-03-06 5:50:49.705956 - loaded common.php
+2013-03-06 5:50:49.757168 - http://langrid.org/service_manager/services/ServiceManagement?wsdl
+2013-03-06 5:50:49.959618 - refresh start.
+2013-03-06 5:50:50.211592 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:50:51.614826 - 12 TRANSLATIONservices of CLIENT_CONTROL.
+2013-03-06 5:50:51.724707 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:50:51.946327 - 0 TRANSLATIONservices of SERVER_CONTROL.
+2013-03-06 5:50:52.206649 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:50:54.433212 - 20 BILINGUALDICTIONARYWITHLONGESTMATCHSEARCHservices of CLIENT_CONTROL.
+2013-03-06 5:50:54.642952 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:50:56.158166 - 12 BILINGUALDICTIONARYWITHLONGESTMATCHSEARCHservices of SERVER_CONTROL.
+2013-03-06 5:50:56.402344 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:50:58.435841 - 18 MORPHOLOGICALANALYSISservices of CLIENT_CONTROL.
+2013-03-06 5:50:58.583178 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:50:59.450604 - 6 MORPHOLOGICALANALYSISservices of SERVER_CONTROL.
+2013-03-06 5:50:59.517507 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:51:0.177337 - 4 TEXTTOSPEECHservices of CLIENT_CONTROL.
+2013-03-06 5:51:0.253958 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:51:0.545874 - 1 TEXTTOSPEECHservices of SERVER_CONTROL.
+2013-03-06 5:51:0.601637 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:51:0.92625 - 1 SIMILARITYCALCULATIONservices of CLIENT_CONTROL.
+2013-03-06 5:51:1.005144 - http://langrid.org/service_manager/services/UserManagement?wsdl
+2013-03-06 5:51:1.340595 - 1 SIMILARITYCALCULATIONservices of SERVER_CONTROL.
+2013-03-06 5:51:1.342686 - ### EBMT add	 ###
+2013-03-06 5:51:1.343133 - ServiceGridLangridService Object
+(
+    [id:ServiceGridLangridService:private] => 1436
+    [serviceId:ServiceGridLangridService:private] => kyotou.langrid:KyotoEBMT-nlparser_KNP_EDICT
+    [serviceType:ServiceGridLangridService:private] => TRANSLATION
+    [allowedAppProvision:ServiceGridLangridService:private] => CLIENT_CONTROL
+    [serviceName:ServiceGridLangridService:private] => KyotoEBMT (nlparser, KNP, EDICT)
+    [endpointUrl:ServiceGridLangridService:private] => http://langrid.nict.go.jp/service_manager/wsdl/kyotou.langrid:KyotoEBMT-nlparser_KNP_EDICT
+    [supportedLanguagesPaths:ServiceGridLangridService:private] => en2ja,ja2en
+    [organization:ServiceGridLangridService:private] => Kurohashi Laboratory, Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University
+    [copyright:ServiceGridLangridService:private] => KyotoEBMT: Kyoto University, nlparser: Brown University, KNP: Kyoto University, EDICT: The Electronic Dictionary Research and Development Group
+    [license:ServiceGridLangridService:private] => 
+    [description:ServiceGridLangridService:private] => KyotoEBMT is a example based machine translator. This resource consists of nlparser and KNP for a parser, and EDICT for a bilingual dictionary.
+    [registeredDate:ServiceGridLangridService:private] => 2010/08/25
+    [updatedDate:ServiceGridLangridService:private] => 2010/08/25
+    [miscBasicUserid:ServiceGridLangridService:private] => 
+    [miscBasicPasswd:ServiceGridLangridService:private] => 
+)
+
+2013-03-06 5:51:1.344208 - ### EBMT add	 ###
+2013-03-06 5:51:1.344579 - ServiceGridLangridService Object
+(
+    [id:ServiceGridLangridService:private] => 1437
+    [serviceId:ServiceGridLangridService:private] => kyotou.langrid:KyotoEBMT-nlparser_KNP_EDICT
+    [serviceType:ServiceGridLangridService:private] => TRANSLATION
+    [allowedAppProvision:ServiceGridLangridService:private] => SERVER_CONTROL
+    [serviceName:ServiceGridLangridService:private] => KyotoEBMT (nlparser, KNP, EDICT)
+    [endpointUrl:ServiceGridLangridService:private] => http://langrid.nict.go.jp/service_manager/wsdl/kyotou.langrid:KyotoEBMT-nlparser_KNP_EDICT
+    [supportedLanguagesPaths:ServiceGridLangridService:private] => en2ja,ja2en
+    [organization:ServiceGridLangridService:private] => Kurohashi Laboratory, Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University
+    [copyright:ServiceGridLangridService:private] => KyotoEBMT: Kyoto University, nlparser: Brown University, KNP: Kyoto University, EDICT: The Electronic Dictionary Research and Development Group
+    [license:ServiceGridLangridService:private] => 
+    [description:ServiceGridLangridService:private] => KyotoEBMT is a example based machine translator. This resource consists of nlparser and KNP for a parser, and EDICT for a bilingual dictionary.
+    [registeredDate:ServiceGridLangridService:private] => 2010/08/25
+    [updatedDate:ServiceGridLangridService:private] => 2010/08/25
+    [miscBasicUserid:ServiceGridLangridService:private] => 
+    [miscBasicPasswd:ServiceGridLangridService:private] => 
+)
+
+2013-03-06 5:51:1.344923 - refresh end.
+2013-03-06 5:51:1.42954 - MainFrame::execute(); /toolbox-dev/html/modules/langrid_config/?page=client_control_shared
+2013-03-06 5:51:1.635233 - bindingSetName = SITE
+2013-03-06 5:51:33.78293 - loaded common.php
+2013-03-06 5:51:33.846177 - MainFrame::execute(); /toolbox-dev/html/modules/langrid_config/?page=client_control_shared&action=SaveSetting
+2013-03-06 5:51:33.881156 - ### Setting data start ###
+2013-03-06 5:51:33.881568 - Array
+(
+    [index] => panel-2
+    [id] => 9
+    [isDelete] => 0
+    [lang1] => en
+    [lang2] => ja
+    [lang3] => 
+    [lang4] => 
+    [flow] => left
+    [flow1] => left
+    [flow2] => left
+    [flow3] => left
+    [service1] => kyoto1.langrid%3AKyotoUJServer
+    [service2] => 
+    [service3] => 
+    [global_dict_1] => 
+    [global_dict_2] => 
+    [global_dict_3] => 
+    [local_dict_1] => 
+    [local_dict_2] => 
+    [local_dict_3] => 
+    [temp_dict_1] => RiceDictionary,YMCCommunityDictionary,ymctoolboxsystem dictionary
+    [temp_dict_2] => RiceDictionary,YMCCommunityDictionary,ymctoolboxsystem dictionary
+    [temp_dict_3] => 
+    [dict_flag_1] => 1
+    [dict_flag_2] => 2
+    [dict_flag_3] => 
+    [morph_analyzer1] => kyoto1.langrid:TreeTagger
+    [morph_analyzer2] => kyoto0.langrid:Mecab
+    [morph_analyzer3] => 
+    [morph_analyzer4] => 
+    [similarity1] => kyoto1.langrid%3ABLEU
+    [similarity2] => kyoto1.langrid%253ABLEU
+    [similarity3] => 
+    [parallel1] => 
+    [parallel2] => 
+    [parallel3] => 
+    [translationTemplates1] => 
+    [translationTemplates2] => 
+    [translationTemplates3] => 
+    [panelId] => panel-2
+)
+
+2013-03-06 5:51:33.88184 - ### Setting data end ###
+2013-03-06 5:51:44.244786 - loaded common.php
+2013-03-06 5:51:44.308222 - MainFrame::execute(); /toolbox-dev/html/modules/langrid_config/?page=client_control_shared&action=SaveSetting
+2013-03-06 5:51:44.324392 - ### Setting data start ###
+2013-03-06 5:51:44.324721 - Array
+(
+    [index] => panel-N
+    [id] => 
+    [isDelete] => 0
+    [lang1] => en
+    [lang2] => vi
+    [lang3] => 
+    [lang4] => 
+    [flow] => both
+    [flow1] => both
+    [flow2] => both
+    [flow3] => both
+    [service1] => kyoto1.langrid%3AGoogleTranslate
+    [service2] => 
+    [service3] => 
+    [global_dict_1] => 
+    [global_dict_2] => 
+    [global_dict_3] => 
+    [local_dict_1] => 
+    [local_dict_2] => 
+    [local_dict_3] => 
+    [temp_dict_1] => RiceDictionary,YMCCommunityDictionary,ymctoolboxsystem dictionary
+    [temp_dict_2] => RiceDictionary,YMCCommunityDictionary,ymctoolboxsystem dictionary
+    [temp_dict_3] => RiceDictionary,YMCCommunityDictionary,ymctoolboxsystem dictionary
+    [dict_flag_1] => 1
+    [dict_flag_2] => 1
+    [dict_flag_3] => 1
+    [morph_analyzer1] => kyoto1.langrid:TreeTagger
+    [morph_analyzer2] => kyoto1.langrid:VLSPPOSTaggerService
+    [morph_analyzer3] => 
+    [morph_analyzer4] => 
+    [similarity1] => 
+    [similarity2] => 
+    [similarity3] => 
+    [parallel1] => 
+    [parallel2] => 
+    [parallel3] => 
+    [translationTemplates1] => 
+    [translationTemplates2] => 
+    [translationTemplates3] => 
+    [panelId] => panel-N
+)
+
+2013-03-06 5:51:44.324956 - ### Setting data end ###
+2013-03-06 5:52:15.78566 - loaded common.php
+2013-03-06 5:52:15.853747 - SITE Setting!
+2013-03-06 5:52:15.858043 - SITE Setting!
+2013-03-06 5:52:15.866282 - ### binds ###
+2013-03-06 5:52:15.866705 - Array
+(
+    [0] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 1
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => RiceDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545493
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [1] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 2
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => YMCCommunityDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545493
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [2] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 3
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => ymctoolboxsystem dictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545493
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [3] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 4
+            [bindType:ServiceGridTranslationBind:private] => 9
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:TreeTagger
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545493
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [4] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 5
+            [bindType:ServiceGridTranslationBind:private] => 6
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid%3ABLEU
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545493
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [5] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 6
+            [bindType:ServiceGridTranslationBind:private] => 0
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:KyotoUJServer
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545493
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+)
+
+2013-03-06 5:52:15.868628 - $numberOfTranslators = 1
+2013-03-06 5:52:15.869026 - $numberOfEbmts = 0
+2013-03-06 5:52:15.869293 - $numberOfParallelTexts = 0
+2013-03-06 5:52:15.869563 - $this->isBestChoice = 0
+2013-03-06 5:52:15.874559 - ### Selected translator ###
+2013-03-06 5:52:15.87495 - BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:52:15.875335 - source = Hello world. This is a test.
+2013-03-06 5:52:15.875741 - sourceArray = 
+2013-03-06 5:52:15.876084 - BindingName = SITE
+2013-03-06 5:52:15.876512 - isBackTrans = 1
+2013-03-06 5:52:15.87685 - isMultihop = 0
+2013-03-06 5:52:15.877187 - isCombined = 1
+2013-03-06 5:52:15.877521 - isBestChoice = 0
+2013-03-06 5:52:15.877854 - isEbmt = 0
+2013-03-06 5:52:15.882751 - getUserDictionaryContents begin
+2013-03-06 5:52:15.883736 - SELECT     src.contents AS `en`     , tgt.contents AS `ja` FROM     `c25bbe_user_dictionary_contents` tgt JOIN     (SELECT         `user_dictionary_id`         , `row`         , `language`         , `contents`      FROM         c25bbe_user_dictionary_contents      WHERE         `user_dictionary_id` in (3, 6, 2)         AND `delete_flag` = 0         AND `row` > 0         AND `language` = 'en'          AND (( LENGTH(`contents`) >= 3 AND LEFT(`contents`, 3) IN (' Th', ' a ', ' is', ' te', ' wo', '.', '. T', 'Hel', 'Thi', 'a t', 'd. ', 'ell', 'est', 'his', 'is ', 'ld.', 'llo', 'lo ', 'o w', 'orl', 'rld', 's a', 's i', 'st.', 't.', 'tes', 'wor') ) OR (LENGTH(`contents`) = 2 AND `contents` IN (' T',' a',' i',' t',' w','.','. ','He','Th','a ','d.','el','es','hi','is','ld','ll','lo','o ','or','rl','s ','st','t.','te','wo'))  OR (LENGTH(`contents`) = 1 AND `contents` IN (' ','.','H','T','a','d','e','h','i','l','o','r','s','t','w')) )       ORDER BY         FIELD(`user_dictionary_id`, 3, 6, 2) DESC         , `row` ASC     ) src ON src.`user_dictionary_id` = tgt.`user_dictionary_id`    AND src.`row` = tgt.`row` WHERE    tgt.`language` = 'ja'    AND tgt.`delete_flag` = 0 
+2013-03-06 5:52:15.897955 - found 8 words in Dictionary.
+2013-03-06 5:52:15.899499 - $bindingName = SITE
+2013-03-06 5:52:15.899972 - http://langrid.org/service_manager/wsdl/kyoto1.langrid:BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:52:16.009724 - AbstractServiceGridClient: invoke start
+2013-03-06 5:52:16.010118 - isMultiSentenceTranslation = 0
+2013-03-06 5:52:16.010637 - Translate Start
+2013-03-06 5:52:16.009524 - loaded common.php
+2013-03-06 5:52:16.057497 - SITE Setting!
+2013-03-06 5:52:16.061606 - SITE Setting!
+2013-03-06 5:52:16.067735 - ### binds ###
+2013-03-06 5:52:16.068075 - Array
+(
+    [0] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 1
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => RiceDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [1] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 2
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => YMCCommunityDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [2] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 3
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => ymctoolboxsystem dictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [3] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 4
+            [bindType:ServiceGridTranslationBind:private] => 9
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:TreeTagger
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [4] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 5
+            [bindType:ServiceGridTranslationBind:private] => 0
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:GoogleTranslate
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+)
+
+2013-03-06 5:52:16.069824 - $numberOfTranslators = 1
+2013-03-06 5:52:16.070099 - $numberOfEbmts = 0
+2013-03-06 5:52:16.070368 - $numberOfParallelTexts = 0
+2013-03-06 5:52:16.07059 - $this->isBestChoice = 0
+2013-03-06 5:52:16.072701 - ### Selected translator ###
+2013-03-06 5:52:16.072977 - BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:52:16.073178 - source = Hello world. This is a test.
+2013-03-06 5:52:16.073389 - sourceArray = 
+2013-03-06 5:52:16.073579 - BindingName = SITE
+2013-03-06 5:52:16.073768 - isBackTrans = 1
+2013-03-06 5:52:16.073954 - isMultihop = 0
+2013-03-06 5:52:16.074159 - isCombined = 1
+2013-03-06 5:52:16.074343 - isBestChoice = 0
+2013-03-06 5:52:16.074526 - isEbmt = 0
+2013-03-06 5:52:16.076932 - getUserDictionaryContents begin
+2013-03-06 5:52:16.077487 - SELECT     src.contents AS `en`     , tgt.contents AS `vi` FROM     `c25bbe_user_dictionary_contents` tgt JOIN     (SELECT         `user_dictionary_id`         , `row`         , `language`         , `contents`      FROM         c25bbe_user_dictionary_contents      WHERE         `user_dictionary_id` in (3, 6, 2)         AND `delete_flag` = 0         AND `row` > 0         AND `language` = 'en'          AND (( LENGTH(`contents`) >= 3 AND LEFT(`contents`, 3) IN (' Th', ' a ', ' is', ' te', ' wo', '.', '. T', 'Hel', 'Thi', 'a t', 'd. ', 'ell', 'est', 'his', 'is ', 'ld.', 'llo', 'lo ', 'o w', 'orl', 'rld', 's a', 's i', 'st.', 't.', 'tes', 'wor') ) OR (LENGTH(`contents`) = 2 AND `contents` IN (' T',' a',' i',' t',' w','.','. ','He','Th','a ','d.','el','es','hi','is','ld','ll','lo','o ','or','rl','s ','st','t.','te','wo'))  OR (LENGTH(`contents`) = 1 AND `contents` IN (' ','.','H','T','a','d','e','h','i','l','o','r','s','t','w')) )       ORDER BY         FIELD(`user_dictionary_id`, 3, 6, 2) DESC         , `row` ASC     ) src ON src.`user_dictionary_id` = tgt.`user_dictionary_id`    AND src.`row` = tgt.`row` WHERE    tgt.`language` = 'vi'    AND tgt.`delete_flag` = 0 
+2013-03-06 5:52:16.091086 - found 8 words in Dictionary.
+2013-03-06 5:52:16.092198 - $bindingName = SITE
+2013-03-06 5:52:16.092503 - http://langrid.org/service_manager/wsdl/kyoto1.langrid:BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:52:16.191963 - AbstractServiceGridClient: invoke start
+2013-03-06 5:52:16.19291 - isMultiSentenceTranslation = 0
+2013-03-06 5:52:16.194491 - Translate Start
+2013-03-06 5:52:38.169305 - loaded common.php
+2013-03-06 5:52:38.236672 - MainFrame::execute(); /toolbox-dev/html/modules/langrid_config/?page=client_control_shared&action=SaveSetting
+2013-03-06 5:52:38.262992 - ### Setting data start ###
+2013-03-06 5:52:38.263297 - Array
+(
+    [index] => panel-2
+    [id] => 9
+    [isDelete] => 0
+    [lang1] => en
+    [lang2] => ja
+    [lang3] => 
+    [lang4] => 
+    [flow] => left
+    [flow1] => left
+    [flow2] => left
+    [flow3] => left
+    [service1] => kyoto1.langrid%3AGoogleTranslate
+    [service2] => 
+    [service3] => 
+    [global_dict_1] => 
+    [global_dict_2] => 
+    [global_dict_3] => 
+    [local_dict_1] => 
+    [local_dict_2] => 
+    [local_dict_3] => 
+    [temp_dict_1] => RiceDictionary,YMCCommunityDictionary,ymctoolboxsystem dictionary
+    [temp_dict_2] => RiceDictionary,YMCCommunityDictionary,ymctoolboxsystem dictionary
+    [temp_dict_3] => 
+    [dict_flag_1] => 1
+    [dict_flag_2] => 2
+    [dict_flag_3] => 
+    [morph_analyzer1] => kyoto1.langrid:TreeTagger
+    [morph_analyzer2] => kyoto0.langrid:Mecab
+    [morph_analyzer3] => 
+    [morph_analyzer4] => 
+    [similarity1] => kyoto1.langrid%3ABLEU
+    [similarity2] => kyoto1.langrid%253ABLEU
+    [similarity3] => 
+    [parallel1] => 
+    [parallel2] => 
+    [parallel3] => 
+    [translationTemplates1] => 
+    [translationTemplates2] => 
+    [translationTemplates3] => 
+    [panelId] => panel-2
+)
+
+2013-03-06 5:52:38.263509 - ### Setting data end ###
+2013-03-06 5:52:48.708052 - loaded common.php
+2013-03-06 5:52:48.705573 - loaded common.php
+2013-03-06 5:52:48.757186 - SITE Setting!
+2013-03-06 5:52:48.762113 - SITE Setting!
+2013-03-06 5:52:48.768264 - ### binds ###
+2013-03-06 5:52:48.768629 - Array
+(
+    [0] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 1
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => RiceDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545558
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [1] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 2
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => YMCCommunityDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545558
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [2] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 3
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => ymctoolboxsystem dictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545558
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [3] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 4
+            [bindType:ServiceGridTranslationBind:private] => 9
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:TreeTagger
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545558
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [4] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 5
+            [bindType:ServiceGridTranslationBind:private] => 6
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid%3ABLEU
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545558
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [5] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 9
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 6
+            [bindType:ServiceGridTranslationBind:private] => 0
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:GoogleTranslate
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545558
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+)
+
+2013-03-06 5:52:48.770231 - $numberOfTranslators = 1
+2013-03-06 5:52:48.774337 - SITE Setting!
+2013-03-06 5:52:48.770546 - $numberOfEbmts = 0
+2013-03-06 5:52:48.770954 - $numberOfParallelTexts = 0
+2013-03-06 5:52:48.771291 - $this->isBestChoice = 0
+2013-03-06 5:52:48.773652 - ### Selected translator ###
+2013-03-06 5:52:48.774022 - BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:52:48.774356 - source = Hello world. This is a test.
+2013-03-06 5:52:48.774709 - sourceArray = 
+2013-03-06 5:52:48.775017 - BindingName = SITE
+2013-03-06 5:52:48.779165 - SITE Setting!
+2013-03-06 5:52:48.775338 - isBackTrans = 1
+2013-03-06 5:52:48.77569 - isMultihop = 0
+2013-03-06 5:52:48.775992 - isCombined = 1
+2013-03-06 5:52:48.77629 - isBestChoice = 0
+2013-03-06 5:52:48.776522 - isEbmt = 0
+2013-03-06 5:52:48.779831 - getUserDictionaryContents begin
+2013-03-06 5:52:48.780488 - SELECT     src.contents AS `en`     , tgt.contents AS `ja` FROM     `c25bbe_user_dictionary_contents` tgt JOIN     (SELECT         `user_dictionary_id`         , `row`         , `language`         , `contents`      FROM         c25bbe_user_dictionary_contents      WHERE         `user_dictionary_id` in (3, 6, 2)         AND `delete_flag` = 0         AND `row` > 0         AND `language` = 'en'          AND (( LENGTH(`contents`) >= 3 AND LEFT(`contents`, 3) IN (' Th', ' a ', ' is', ' te', ' wo', '.', '. T', 'Hel', 'Thi', 'a t', 'd. ', 'ell', 'est', 'his', 'is ', 'ld.', 'llo', 'lo ', 'o w', 'orl', 'rld', 's a', 's i', 'st.', 't.', 'tes', 'wor') ) OR (LENGTH(`contents`) = 2 AND `contents` IN (' T',' a',' i',' t',' w','.','. ','He','Th','a ','d.','el','es','hi','is','ld','ll','lo','o ','or','rl','s ','st','t.','te','wo'))  OR (LENGTH(`contents`) = 1 AND `contents` IN (' ','.','H','T','a','d','e','h','i','l','o','r','s','t','w')) )       ORDER BY         FIELD(`user_dictionary_id`, 3, 6, 2) DESC         , `row` ASC     ) src ON src.`user_dictionary_id` = tgt.`user_dictionary_id`    AND src.`row` = tgt.`row` WHERE    tgt.`language` = 'ja'    AND tgt.`delete_flag` = 0 
+2013-03-06 5:52:48.786658 - ### binds ###
+2013-03-06 5:52:48.787019 - Array
+(
+    [0] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 1
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => RiceDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [1] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 2
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => YMCCommunityDictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [2] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 3
+            [bindType:ServiceGridTranslationBind:private] => 3
+            [bindValue:ServiceGridTranslationBind:private] => ymctoolboxsystem dictionary
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [3] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 4
+            [bindType:ServiceGridTranslationBind:private] => 9
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:TreeTagger
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+    [4] => ServiceGridTranslationBind Object
+        (
+            [pathId:ServiceGridTranslationBind:private] => 1075
+            [execId:ServiceGridTranslationBind:private] => 1
+            [bindId:ServiceGridTranslationBind:private] => 5
+            [bindType:ServiceGridTranslationBind:private] => 0
+            [bindValue:ServiceGridTranslationBind:private] => kyoto1.langrid:GoogleTranslate
+            [createUserId:ServiceGridTranslationBind:private] => 2
+            [updateUserId:ServiceGridTranslationBind:private] => 0
+            [createTime:ServiceGridTranslationBind:private] => 1362545504
+            [updateTime:ServiceGridTranslationBind:private] => 0
+        )
+
+)
+
+2013-03-06 5:52:48.788589 - $numberOfTranslators = 1
+2013-03-06 5:52:48.788877 - $numberOfEbmts = 0
+2013-03-06 5:52:48.789128 - $numberOfParallelTexts = 0
+2013-03-06 5:52:48.789488 - $this->isBestChoice = 0
+2013-03-06 5:52:48.792729 - ### Selected translator ###
+2013-03-06 5:52:48.793103 - BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:52:48.793445 - source = Hello world. This is a test.
+2013-03-06 5:52:48.793786 - sourceArray = 
+2013-03-06 5:52:48.794124 - BindingName = SITE
+2013-03-06 5:52:48.794462 - isBackTrans = 1
+2013-03-06 5:52:48.7948 - isMultihop = 0
+2013-03-06 5:52:48.795135 - isCombined = 1
+2013-03-06 5:52:48.795504 - isBestChoice = 0
+2013-03-06 5:52:48.795828 - isEbmt = 0
+2013-03-06 5:52:48.800774 - getUserDictionaryContents begin
+2013-03-06 5:52:48.801694 - SELECT     src.contents AS `en`     , tgt.contents AS `vi` FROM     `c25bbe_user_dictionary_contents` tgt JOIN     (SELECT         `user_dictionary_id`         , `row`         , `language`         , `contents`      FROM         c25bbe_user_dictionary_contents      WHERE         `user_dictionary_id` in (3, 6, 2)         AND `delete_flag` = 0         AND `row` > 0         AND `language` = 'en'          AND (( LENGTH(`contents`) >= 3 AND LEFT(`contents`, 3) IN (' Th', ' a ', ' is', ' te', ' wo', '.', '. T', 'Hel', 'Thi', 'a t', 'd. ', 'ell', 'est', 'his', 'is ', 'ld.', 'llo', 'lo ', 'o w', 'orl', 'rld', 's a', 's i', 'st.', 't.', 'tes', 'wor') ) OR (LENGTH(`contents`) = 2 AND `contents` IN (' T',' a',' i',' t',' w','.','. ','He','Th','a ','d.','el','es','hi','is','ld','ll','lo','o ','or','rl','s ','st','t.','te','wo'))  OR (LENGTH(`contents`) = 1 AND `contents` IN (' ','.','H','T','a','d','e','h','i','l','o','r','s','t','w')) )       ORDER BY         FIELD(`user_dictionary_id`, 3, 6, 2) DESC         , `row` ASC     ) src ON src.`user_dictionary_id` = tgt.`user_dictionary_id`    AND src.`row` = tgt.`row` WHERE    tgt.`language` = 'vi'    AND tgt.`delete_flag` = 0 
+2013-03-06 5:52:48.801944 - found 8 words in Dictionary.
+2013-03-06 5:52:48.803462 - $bindingName = SITE
+2013-03-06 5:52:48.803938 - http://langrid.org/service_manager/wsdl/kyoto1.langrid:BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:52:48.817003 - found 8 words in Dictionary.
+2013-03-06 5:52:48.818127 - $bindingName = SITE
+2013-03-06 5:52:48.818506 - http://langrid.org/service_manager/wsdl/kyoto1.langrid:BackTranslationCombinedWithBilingualDictionaryWithLongestMatchSearch
+2013-03-06 5:52:48.888131 - AbstractServiceGridClient: invoke start
+2013-03-06 5:52:48.888567 - isMultiSentenceTranslation = 0
+2013-03-06 5:52:48.889103 - Translate Start
+2013-03-06 5:52:48.913506 - AbstractServiceGridClient: invoke start
+2013-03-06 5:52:48.913921 - isMultiSentenceTranslation = 0
+2013-03-06 5:52:48.914623 - Translate Start
+2013-03-06 6:41:38.43344 - loaded common.php
+2013-03-06 6:41:38.547248 - MainFrame::execute(); /toolbox-dev/html/modules/langrid_config/?page=import
+2013-03-06 6:41:39.541918 - loaded common.php
+2013-03-06 6:41:39.543193 - loaded common.php
+2013-03-06 6:41:39.665581 - MainFrame::execute(); /toolbox-dev/html/modules/langrid_config/?page=import&action=LoadServices
+2013-03-06 6:41:39.665916 - MainFrame::execute(); /toolbox-dev/html/modules/langrid_config/?page=import&action=LoadSupportedLanguages
