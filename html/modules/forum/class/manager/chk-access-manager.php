@@ -102,10 +102,14 @@ class chkAccessManager extends AbstractManager {
 		$sql  .= 'FROM ' . $orgTable . ' AS G '; 
 		$sql  .= 'LEFT JOIN ' .  $postsTable . ' AS P '; 
 		$sql  .= 'ON G.uid = P.uid '; 
-		$sql  .= 'GROUP BY P.uid, G.sub_profile_1 ) as XX '; 
+		$sql  .= 'GROUP BY G.sub_profile_1 ) as XX '; 
 		$sql  .= 'ON U.uid = XX.uid '; 
 		$sql  .= 'GROUP BY XX.org '; 
 		$sql  .= 'ORDER BY  XX.org ASC'; 
+
+
+
+
 		$result = $this->db->query($sql);
 
 		$uaccess = array();
